@@ -8,6 +8,6 @@ Usage:
 
 	public OnGameModeInit( ) {  
 
-	AddSnowObjects();
+		AddSnowObjects();
 	}
 ```
