@@ -3,7 +3,9 @@ Snow on the streets in SAMP
 
 Usage:
 
-  `public OnGameModeInit( ) {  
+	`#include "snow.pwn"
 
-	  AddSnowObjects();
-  }`
+public OnGameModeInit( ) {  
+
+	AddSnowObjects();
+}`
