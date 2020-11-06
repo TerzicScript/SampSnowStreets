@@ -5,7 +5,7 @@ Usage:
 
 	`#include "snow.pwn"
 
-public OnGameModeInit( ) {  
+`public OnGameModeInit( ) {  
 
-	AddSnowObjects();
-}`
+	`AddSnowObjects();
+`}
